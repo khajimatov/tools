@@ -1,4 +1,3 @@
-# tools
-## icons
-[] https://phosphoricons.com/
-[] lucide.dev
+### icons
+- https://phosphoricons.com
+- https://lucide.dev
